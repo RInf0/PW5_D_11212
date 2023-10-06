@@ -136,7 +136,7 @@
             </tr>
             @empty
             <div class="alert alert-danger">
-                Data Kelas masi kosong
+                Data Kelas masih kosong
             </div>
             @endforelse
         </table>
